@@ -1,15 +1,33 @@
-for(var i=0; i<100; i++){
-    if(i%3 ==0  && i%5==0){
-        console.log(i+"=FizzBuzz")
-    }
-    else if(i%3==0){
-     console.log(i+"=Fizz")}
-    else if
-         (i%5==0){
-         console.log(i+"=Buzz")}
+// for(var i=0; i<100; i++){
+//     if(i%3 ==0  && i%5==0){
+//         console.log(i+"=FizzBuzz")
+//     }
+//     else if(i%3==0){
+//      console.log(i+"=Fizz")}
+//     else if
+//          (i%5==0){
+//          console.log(i+"=Buzz")}
          
-    else{
-        console.log(i)
-    }
-}
+//     else{
+//         console.log(i)
+//     }
+// }
 
+
+
+// for( var i=1; i<=15; i++){
+// console.log("#" .repeat(i))
+// }
+
+
+
+
+// var lngth=8
+// for (var i=0; i<lngth; i++){
+//     if (i%2 == 0){
+//         console.log("  #".repeat(lngth))
+//     }else{
+//         console.log("#  ".repeat(lngth))
+//     }
+    
+// }
